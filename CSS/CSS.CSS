@@ -1,0 +1,44 @@
+.progress {
+	margin: 20px 0;
+	height: 2.5vh;
+}
+
+.text{
+	color: black;
+	font-size: 12px;
+	margin-left: 5px;
+}
+
+.summ {
+	margin-bottom: 10px;
+}
+
+.btn-content {
+	display: flex;
+}
+
+.btn-primary {
+	margin-right: 10px;
+	width: 100px;
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	
+}
